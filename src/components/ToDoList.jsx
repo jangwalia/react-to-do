@@ -1,5 +1,6 @@
 import React from 'react'
 import ToDoListItem from './ToDoListItem'
+import './App.css'
 export default function ToDoList({myList}) {
   return (
     <div>

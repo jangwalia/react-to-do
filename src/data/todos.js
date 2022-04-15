@@ -2,7 +2,7 @@ const example = [
   {
     id : 1,
     title : "Run 5 K in the morning",
-    isDone : false
+    isDone : true
   },
   {
     id : 2,
