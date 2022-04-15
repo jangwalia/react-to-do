@@ -1,4 +1,4 @@
-example = [
+const example = [
   {
     id : 1,
     title : "Run 5 K in the morning",
@@ -10,8 +10,10 @@ example = [
     isDone : false
   },
   {
-    id : 1,
+    id : 3,
     title : "get grocery",
     isDone : false
   }
 ]
+
+export default {example}
